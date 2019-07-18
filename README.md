@@ -5,3 +5,5 @@
 4. run `npm start` and open `http://localhost:3000/` in your browser.
 5. enjoy!
 
+# Preview
+![react_memegen](img/react_memegen.png)
